@@ -1,0 +1,11 @@
+{
+  "parseFiles": true,
+  "customTests": [],
+  "devFile": "/PATH/TO/modernizr-dev.js",
+  "outputFile": "/PATH/TO/modernizr-output.js",
+  "tests": [],
+  "options": [
+    "setClasses"
+  ],
+  "uglify": true
+}
